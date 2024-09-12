@@ -2,9 +2,9 @@
 ### Hi 👋, I'm Azure! I'm a backend developer from Türkiye. I like making Roblox serversides and botting on Roblox.
 
 ### ✨ My previous projects:
-- ### serverside.lol
-- ### Azure Condos
-- ### serverside.space
+- serverside.lol
+- Azure Condos
+- serverside.space
 
 ### I’m open to new projects and available for hire! 💻
 
