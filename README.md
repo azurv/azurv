@@ -1,13 +1,6 @@
 ## 💫 About Me:
 Hi 👋, I'm Azure! I'm a backend developer from Türkiye.
 
-✨ My previous projects:
-- serverside.lol
-- Azure Condos
-- serverside.space
-
-I’m open to new projects and available for hire! 💻
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/azw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/137azure) 
 
@@ -20,13 +13,6 @@ I’m open to new projects and available for hire! 💻
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🤣 Things I did on Roblox
-
-- Roblox Decal Marketplace Spam
-* https://devforum.roblox.com/t/what-is-azure-1337/2950232
-* https://www.reddit.com/r/robloxhackers/comments/190j5z6/obfuscator_decals/
-* https://www.reddit.com/r/ROBLOXStudio/comments/1cf5mod/this_azure_4zve_obfuscator_image_has_flooded_most/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azurv&icon=0&color=0)](https://visitcount.itsvg.in)
