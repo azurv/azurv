@@ -24,9 +24,9 @@ I’m open to new projects and available for hire! 💻
 ### 🤣 Things I did on Roblox
 
 - Roblox Decal Marketplace Spam
-  https://devforum.roblox.com/t/what-is-azure-1337/2950232
-  https://www.reddit.com/r/robloxhackers/comments/190j5z6/obfuscator_decals/
-  https://www.reddit.com/r/ROBLOXStudio/comments/1cf5mod/this_azure_4zve_obfuscator_image_has_flooded_most/
+* https://devforum.roblox.com/t/what-is-azure-1337/2950232
+* https://www.reddit.com/r/robloxhackers/comments/190j5z6/obfuscator_decals/
+* https://www.reddit.com/r/ROBLOXStudio/comments/1cf5mod/this_azure_4zve_obfuscator_image_has_flooded_most/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azurv&icon=0&color=0)](https://visitcount.itsvg.in)
