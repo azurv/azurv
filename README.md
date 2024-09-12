@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Hi 👋, I'm Azure! I'm a backend developer from Türkiye. I like making Roblox serversides and botting on Roblox.
+### Hi 👋, I'm Azure! I'm a backend developer from Türkiye. I like making Roblox services.
 
 ### ✨ My previous projects:
 - serverside.lol
